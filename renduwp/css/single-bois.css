@@ -1,0 +1,35 @@
+.single_bois-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .single_bois-container img {
+    max-width: 50%;
+    margin-right: 20px;
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .single_bois-container p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0; 
+  }
+  
+ 
+  .single_bois-container h2 {
+    font-size: 24px;
+    color: #555;
+    margin: 0; 
+  }
+  
+  
+  .single_bois-container a {
+    color: #0077b5; 
+    text-decoration: none; 
+  }
+  
+  
+  
